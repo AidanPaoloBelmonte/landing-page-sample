@@ -1,11 +1,18 @@
 * {
     font-family: Roboto Arial serif;
+    margin: auto;
 }
 
-.navbar,
+.navbar.container,
 .description,
 .footer {
     background-color: #1f2937;
+}
+
+.navbar.contents {
+    padding: 20px;
+    margin: 0 auto;
+    width: 70%;
 }
 
 .primary.text {
@@ -44,4 +51,18 @@ blockquote {
 button,
 .call_to_action {
     background-color: #3882f6;
+}
+
+.flex_container {
+    display: flex;
+}
+
+.navbar h1 {
+    flex: 1;
+    align-self: flex-start;
+}
+
+.navbar li {
+    margin-right: 15px;
+    display: inline;
 }
