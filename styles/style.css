@@ -3,13 +3,12 @@
     margin: auto;
 }
 
-.navbar.container,
-.description,
+.container,
 .footer {
     background-color: #1f2937;
 }
 
-.navbar.contents {
+.contents {
     padding: 20px;
     margin: 0 auto;
     width: 70%;
@@ -49,12 +48,25 @@ blockquote {
 }
 
 button,
-.call_to_action {
+.call-to-action {
     background-color: #3882f6;
 }
 
-.flex_container {
+.flex-container {
     display: flex;
+}
+
+.intro.flex-container {
+    flex-direction: row;
+}
+
+.intro.contents div {
+    flex: auto;
+}
+
+.description.flex-container * {
+    flex-wrap: wrap;
+    flex-basis: 30%;
 }
 
 .navbar h1 {
