@@ -1,5 +1,5 @@
 * {
-    font-family: Roboto Arial serif;
+    font-family: Roboto, serif;
     margin: auto;
 }
 
@@ -52,13 +52,18 @@ button,
     background-color: #3882f6;
 }
 
+.intro.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 .flex-container {
     display: flex;
 }
 
 .intro.flex-container {
     flex-direction: row;
-    align-content: start;
+    gap: 16px;
 }
 
 .description.flex-container {
