@@ -58,6 +58,11 @@ button,
 
 .intro.flex-container {
     flex-direction: row;
+    align-content: start;
+}
+
+.description.flex-container {
+    flex-direction: column;
 }
 
 .intro.contents div {
