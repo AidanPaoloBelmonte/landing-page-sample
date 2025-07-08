@@ -8,7 +8,7 @@ This sample Web Page aims to showcase and practice the following web development
 
 ## Licenses
 The following fonts have been used from outside sources. They are free to use.
-- [Robot](https://fonts.google.com/specimen/Roboto) from Google Fonts
+- [Roboto](https://fonts.google.com/specimen/Roboto) from Google Fonts
 
 The following images have been used from outside sources. They are free to use.
 - [Shop Image](https://www.pexels.com/photo/lighted-pendant-lights-inside-bar-2079438/) by Emre Can Acer from Pexels
