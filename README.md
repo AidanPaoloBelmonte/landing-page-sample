@@ -7,6 +7,9 @@ This sample Web Page aims to showcase and practice the following web development
 - CSS Flexbox
 
 ## Licenses
+The following fonts have been used from outside sources. They are free to use.
+- [Robot](https://fonts.google.com/specimen/Roboto) from Google Fonts
+
 The following images have been used from outside sources. They are free to use.
 - [Shop Image](https://www.pexels.com/photo/lighted-pendant-lights-inside-bar-2079438/) by Emre Can Acer from Pexels
 - [Knickknack Image](https://www.pexels.com/photo/cat-figurine-incense-holder-on-white-background-15580437/) by COPPERTIST WU from Pexels.
