@@ -88,3 +88,19 @@ button,
     margin-right: 15px;
     display: inline;
 }
+
+button {
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9faf8;
+    text-decoration: none;
+
+    width: 160px;
+    padding: 8px;
+    border: none;
+    border-radius: 12px;
+}
+
+.call-box button {
+    border: 3px solid #f9faf8;
+}
