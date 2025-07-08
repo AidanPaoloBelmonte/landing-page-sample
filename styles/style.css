@@ -19,6 +19,10 @@ body,
     width: 70%;
 }
 
+.quotes.contents {
+    width: 60%;
+}
+
 .primary.text {
     font-size: 24px;
     color: #f9faf8;
@@ -60,7 +64,7 @@ body,
     border-radius: 12px;
 }
 
-.quotes {
+.quotes.container {
     background-color: #e5e7eb;
 }
 
@@ -69,6 +73,18 @@ blockquote {
     font-weight: 300;
     font-style: italic;
     color: #1f2937;
+
+    width: 95%;
+    margin-right: 5px;
+    margin-bottom: 0;
+}
+
+.quotes p {
+    font-size: 24px;
+    font-weight: 900;
+    color: #1f2937;
+
+    margin-top: 0;
 }
 
 button,
@@ -79,6 +95,11 @@ button,
 .intro.container {
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.quotes.contents {
+    padding-top: 90px;
+    padding-bottom: 75px;
 }
 
 .showcase.container {
@@ -96,8 +117,13 @@ button,
 
 .description.flex-container,
 .showcase.flex-container,
-.categories .flex-container {
+.categories .flex-container,
+.quotes.flex-container {
     flex-direction: column;
+}
+
+.quotes.flex-container {
+    align-items: flex-end;
 }
 
 .intro.contents div {
