@@ -186,6 +186,17 @@ button,
     margin: 0;
 }
 
+.footer {
+    padding: 40px;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p {
+    margin: 0 auto;
+}
+
 button {
     font-size: 18px;
     font-weight: bold;
